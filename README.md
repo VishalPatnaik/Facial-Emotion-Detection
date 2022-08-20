@@ -11,5 +11,3 @@ Fully Convolutional Neural networks (FCN) into an unsupervised one such that
 the resulting FCN ensures abnormal behavior detection. Altogether, we propose
 an FCN-based architecture for abnormal behavior detection in crowded scene
 videos.
-
-Keywords: Facial Expression Recognition, Convolutional Neural Network, Deep Learning, Theano.
